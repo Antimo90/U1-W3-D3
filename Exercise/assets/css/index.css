@@ -2,14 +2,14 @@
 
         body {
             font-family: 'Poppins', sans-serif;
-            background: linear-gradient(to right, #6a11cb, #2575fc);
+            background: linear-gradient(to right, #76eeb6, #18ec69);
             display: flex;
             justify-content: center;
-            align-items: flex-start; /* Modificato: Allinea gli elementi all'inizio del contenitore flex */
+            align-items: flex-start; 
             min-height: 100vh;
             margin: 0;
-            padding: 20px; /* Padding generico per mantenere spazio sui lati */
-            padding-top: 50px; /* Aggiunto: Sposta il container più in alto */
+            padding: 20px; 
+            padding-top: 50px; 
             box-sizing: border-box;
             color: #333;
         }
